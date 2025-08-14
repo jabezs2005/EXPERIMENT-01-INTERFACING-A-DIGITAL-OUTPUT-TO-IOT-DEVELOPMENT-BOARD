@@ -316,12 +316,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OUTPUT
 ### FLASH OFF:
-
-![Slide1](https://github.com/user-attachments/assets/1b31139a-8029-489e-8d4a-3d9214303749)
+![Slide1](https://github.com/user-attachments/assets/c8ab7d2c-264e-4045-8c9d-2eefe1d4d478)
 
 ### FLASH ON:
+![Slide2](https://github.com/user-attachments/assets/8a6a0a0e-b16c-4da7-9d6b-be629827103e)
 
-![Slide2](https://github.com/user-attachments/assets/55603f63-28ef-4d69-854f-9009a9a117be)
 
 ## Result
 
