@@ -315,11 +315,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-### FLASH OFF:
-![Slide1](https://github.com/user-attachments/assets/c8ab7d2c-264e-4045-8c9d-2eefe1d4d478)
+### RELAY OFF:
+<img width="841" height="1180" alt="image" src="https://github.com/user-attachments/assets/5516d4e3-cc9d-435f-8b42-247c0311b902" />
 
-### FLASH ON:
-![Slide2](https://github.com/user-attachments/assets/8a6a0a0e-b16c-4da7-9d6b-be629827103e)
+### RELAY ON:
+<img width="841" height="1181" alt="image" src="https://github.com/user-attachments/assets/de9f273a-7bd6-48cc-bae7-49f014ee1416" />
+
 
 
 ## Result
